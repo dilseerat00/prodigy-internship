@@ -1,4 +1,5 @@
-# Task 1: Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+# Task 1:
+**Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.**
 
 Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech. In this task, I performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating visualizations to represent the distribution of a categorical or continuous variable.
 
@@ -49,12 +50,12 @@ During the Exploratory Data Analysis (EDA) of the world population dataset (2001
 
 1. **Population Trends**:
 
-   -The global population has shown a consistent growth trend over the years in specific regions or countries, indicating areas of high population increase.
+-The global population has shown a consistent growth trend over the years in specific regions or countries, indicating areas of high population increase.
 
 2. **Distribution of Population**:
 
-   -The distribution of population across different countries was heavily skewed, with a few countries having significantly larger populations compared to others.
-   -Visualizations, such as histograms and bar charts, illustrated the disparities in population sizes.   
+-The distribution of population across different countries was heavily skewed, with a few countries having significantly larger populations compared to others.
+-Visualizations, such as histograms and bar charts, illustrated the disparities in population sizes.   
 
 ## 📬 Contact
 For any inquiries or feedback regarding this project, please contact:
