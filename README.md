@@ -34,7 +34,6 @@ pip install matplotlib seaborn pandas
 During the EDA process, I performed the following steps:
 
 1. **Data Loading and Inspection**:
-
    -Loaded the dataset into a DataFrame using libraries like Pandas.
    -Inspected the first few rows to get a sense of the data structure (df.head()).
 
@@ -49,13 +48,11 @@ During the EDA process, I performed the following steps:
 During the Exploratory Data Analysis (EDA) of the world population dataset (2001-2022), several key insights and findings were observed:
 
 1. **Population Trends**:
-
--The global population has shown a consistent growth trend over the years in specific regions or countries, indicating areas of high population increase.
+   -The global population has shown a consistent growth trend over the years in specific regions or countries, indicating areas of high population increase.
 
 2. **Distribution of Population**:
-
--The distribution of population across different countries was heavily skewed, with a few countries having significantly larger populations compared to others.
--Visualizations, such as histograms and bar charts, illustrated the disparities in population sizes.   
+   -The distribution of population across different countries was heavily skewed, with a few countries having significantly larger populations compared to others.
+   -Visualizations, such as histograms and bar charts, illustrated the disparities in population sizes.   
 
 ## 📬 Contact
 For any inquiries or feedback regarding this project, please contact:
