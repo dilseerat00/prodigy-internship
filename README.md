@@ -57,3 +57,8 @@ During the Exploratory Data Analysis (EDA) of the world population dataset (2001
 ## 📬 Contact
 For any inquiries or feedback regarding this project, please contact:
 - **Email**: [dilseeratjassal@gmail.com](mailto:dilseeratjassal@gmail.com)
+- You can connect with me on LinkedIn to discuss data science, machine learning, or related topics:
+  [DilseeratKaur](https://www.linkedin.com/in/dilseerat-kaur-9502702b0/)
+  
+
+
